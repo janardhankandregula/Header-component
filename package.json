@@ -1,0 +1,19 @@
+{
+  "name": "headercomponent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janardhankandregula/Header-component.git"
+  },
+  "author": "janardhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janardhankandregula/Header-component/issues"
+  },
+  "homepage": "https://github.com/janardhankandregula/Header-component#readme"
+}
